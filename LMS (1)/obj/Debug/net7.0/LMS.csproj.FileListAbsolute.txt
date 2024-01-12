@@ -1,0 +1,740 @@
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\appsettings.json
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\LMS.staticwebassets.runtime.json
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\LMS.exe
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\LMS.deps.json
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\LMS.runtimeconfig.json
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\LMS.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\LMS.pdb
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\LMS.csproj.AssemblyReference.cache
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\LMS.AssemblyInfoInputs.cache
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\LMS.AssemblyInfo.cs
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\LMS.csproj.CoreCompileInputs.cache
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\LMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cache
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cs
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\staticwebassets\msbuild.LMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\staticwebassets\msbuild.build.LMS.props
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LMS.props
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LMS.props
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\scopedcss\bundle\LMS.styles.css
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\scopedcss\projectbundle\LMS.bundle.scp.css
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\LMS.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\refint\LMS.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\LMS.pdb
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\LMS.genruntimeconfig.cache
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\ref\LMS.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\obj\Debug\net7.0\LMS.csproj.CopyComplete
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\WebMatrix.Data.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\WebMatrix.WebData.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vignesh.saravanan\Downloads\LMS\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\appsettings.json
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\LMS.staticwebassets.runtime.json
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\LMS.exe
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\LMS.deps.json
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\LMS.runtimeconfig.json
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\LMS.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\LMS.pdb
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\WebMatrix.Data.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\WebMatrix.WebData.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\LMS.csproj.AssemblyReference.cache
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\LMS.AssemblyInfoInputs.cache
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\LMS.AssemblyInfo.cs
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\LMS.csproj.CoreCompileInputs.cache
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\LMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cache
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cs
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\staticwebassets\msbuild.LMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\staticwebassets\msbuild.build.LMS.props
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LMS.props
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LMS.props
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\scopedcss\bundle\LMS.styles.css
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\scopedcss\projectbundle\LMS.bundle.scp.css
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\LMS.csproj.CopyComplete
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\LMS.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\refint\LMS.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\LMS.pdb
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\LMS.genruntimeconfig.cache
+C:\Users\Kavin\Desktop\LMS (3)\LMS\obj\Debug\net7.0\ref\LMS.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kavin\Desktop\LMS (3)\LMS\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\appsettings.json
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\LMS.staticwebassets.runtime.json
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\LMS.exe
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\LMS.deps.json
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\LMS.runtimeconfig.json
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\LMS.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\LMS.pdb
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Humanizer.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\WebMatrix.Data.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\WebMatrix.WebData.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\LMS.csproj.AssemblyReference.cache
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\LMS.AssemblyInfoInputs.cache
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\LMS.AssemblyInfo.cs
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\LMS.csproj.CoreCompileInputs.cache
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\LMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cache
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cs
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.LMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.build.LMS.props
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LMS.props
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LMS.props
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\scopedcss\bundle\LMS.styles.css
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\scopedcss\projectbundle\LMS.bundle.scp.css
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\LMS.csproj.CopyComplete
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\LMS.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\refint\LMS.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\LMS.pdb
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\LMS.genruntimeconfig.cache
+C:\Users\vignesh.saravanan\Downloads\LMS (1)\obj\Debug\net7.0\ref\LMS.dll
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\LMS.csproj.AssemblyReference.cache
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\LMS.AssemblyInfoInputs.cache
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\LMS.AssemblyInfo.cs
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\LMS.csproj.CoreCompileInputs.cache
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\LMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cache
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cs
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\LMS.dll
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\refint\LMS.dll
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\LMS.pdb
+C:\Users\rgiri\Downloads\LMS (1)\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\rgiri\Downloads\LMS (1)\bin\Debug\net7.0\appsettings.json
+C:\Users\rgiri\Downloads\LMS (1)\bin\Debug\net7.0\LMS.staticwebassets.runtime.json
+C:\Users\rgiri\Downloads\LMS (1)\bin\Debug\net7.0\LMS.exe
+C:\Users\rgiri\Downloads\LMS (1)\bin\Debug\net7.0\LMS.deps.json
+C:\Users\rgiri\Downloads\LMS (1)\bin\Debug\net7.0\LMS.runtimeconfig.json
+C:\Users\rgiri\Downloads\LMS (1)\bin\Debug\net7.0\LMS.dll
+C:\Users\rgiri\Downloads\LMS (1)\bin\Debug\net7.0\LMS.pdb
+C:\Users\rgiri\Downloads\LMS (1)\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\rgiri\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rgiri\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\rgiri\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\rgiri\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rgiri\Downloads\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.LMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.build.LMS.props
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LMS.props
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LMS.props
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\scopedcss\bundle\LMS.styles.css
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\scopedcss\projectbundle\LMS.bundle.scp.css
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\LMS.csproj.CopyComplete
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\LMS.genruntimeconfig.cache
+C:\Users\rgiri\Downloads\LMS (1)\obj\Debug\net7.0\ref\LMS.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\appsettings.json
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.staticwebassets.runtime.json
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.exe
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.deps.json
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.runtimeconfig.json
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.pdb
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.AssemblyReference.cache
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.AssemblyInfoInputs.cache
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.AssemblyInfo.cs
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.CoreCompileInputs.cache
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cache
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cs
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.LMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.build.LMS.props
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LMS.props
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LMS.props
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\bundle\LMS.styles.css
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\projectbundle\LMS.bundle.scp.css
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.CopyComplete
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\refint\LMS.dll
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.pdb
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.genruntimeconfig.cache
+C:\Users\vignesh.saravanan\Downloads\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\ref\LMS.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\appsettings.json
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.staticwebassets.runtime.json
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.exe
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.deps.json
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.runtimeconfig.json
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.pdb
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.AssemblyReference.cache
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.AssemblyInfoInputs.cache
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.AssemblyInfo.cs
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cache
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cs
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.LMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.build.LMS.props
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LMS.props
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LMS.props
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\bundle\LMS.styles.css
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\projectbundle\LMS.bundle.scp.css
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.CopyComplete
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\refint\LMS.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.pdb
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.genruntimeconfig.cache
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\ref\LMS.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ELCOT\Downloads\LMS (5) (1)\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\appsettings.json
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.staticwebassets.runtime.json
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.exe
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.deps.json
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.runtimeconfig.json
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.pdb
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.AssemblyReference.cache
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.AssemblyInfoInputs.cache
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.AssemblyInfo.cs
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.CoreCompileInputs.cache
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cache
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cs
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.LMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.build.LMS.props
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LMS.props
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LMS.props
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\bundle\LMS.styles.css
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\projectbundle\LMS.bundle.scp.css
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.CopyComplete
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\refint\LMS.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.pdb
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.genruntimeconfig.cache
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\ref\LMS.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\appsettings.json
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.staticwebassets.runtime.json
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.exe
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.deps.json
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.runtimeconfig.json
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.pdb
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.AssemblyReference.cache
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.AssemblyInfoInputs.cache
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.AssemblyInfo.cs
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.CoreCompileInputs.cache
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cache
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cs
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.LMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.build.LMS.props
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LMS.props
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LMS.props
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\bundle\LMS.styles.css
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\projectbundle\LMS.bundle.scp.css
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.CopyComplete
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\refint\LMS.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.pdb
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.genruntimeconfig.cache
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\ref\LMS.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\MailKit.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\MimeKit.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Server\Desktop\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\appsettings.json
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.staticwebassets.runtime.json
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.exe
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.deps.json
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.runtimeconfig.json
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.pdb
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\MailKit.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\MimeKit.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.AssemblyReference.cache
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.AssemblyInfoInputs.cache
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.AssemblyInfo.cs
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.CoreCompileInputs.cache
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cache
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cs
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.LMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.build.LMS.props
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LMS.props
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LMS.props
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\bundle\LMS.styles.css
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\projectbundle\LMS.bundle.scp.css
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.CopyComplete
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\refint\LMS.dll
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.pdb
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.genruntimeconfig.cache
+C:\Users\Server\Downloads\Dotnet\Vignesh_S_Leave_Management_System1\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\ref\LMS.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.AssemblyReference.cache
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.AssemblyInfoInputs.cache
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.AssemblyInfo.cs
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.CoreCompileInputs.cache
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cache
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.RazorAssemblyInfo.cs
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.pdb
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\appsettings.json
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.staticwebassets.runtime.json
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.exe
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.deps.json
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.runtimeconfig.json
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\LMS.pdb
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Humanizer.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\MailKit.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\MimeKit.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.LMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.build.LMS.props
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LMS.props
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LMS.props
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\bundle\LMS.styles.css
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\scopedcss\projectbundle\LMS.bundle.scp.css
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.csproj.CopyComplete
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\refint\LMS.dll
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\LMS.genruntimeconfig.cache
+C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\obj\Debug\net7.0\ref\LMS.dll

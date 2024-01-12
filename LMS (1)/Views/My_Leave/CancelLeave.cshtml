@@ -1,0 +1,74 @@
+@model CancelRequest
+@{
+    ViewData["Title"]="CancelLeave";
+    Layout="../shared/IndexPagelayout";
+}
+
+<section class="h-100 gradient-form" style="background-color: #eee;">
+  <div class="container py-5 h-100">
+    <div class="row d-flex justify-content-center align-items-center h-100">
+      <div class="col-xl-10">
+        <div class="card rounded-3 text-black">
+          <div class="row g-0">
+            <div class="col-xl-12">
+              <div class="card-body p-md-5 mx-md-4">
+
+                <div class="text-center">
+                  
+                  
+                </div>
+                    <form method = "Post">
+        
+                   <h5 class="card -header">CANCEL LEAVE</h5>
+                   <div class="form-outline mb-4">
+                    <input type ="text" id="form2Example11" class="form-control" asp-for="ID" />
+                    <label class="form-label fw-bold" for="form2Example11"  asp-for="ID" ID>USER ID</label>
+                  </div>
+                  <div class="form-outline mb-4">
+                    <input type ="text" id="form2Example11" class="form-control" asp-for="Name" />
+                    <label class="form-label fw-bold" for="form2Example11"  asp-for="Name" Name>USER NAME</label>
+                  </div>
+
+                  
+                  <div class="form-outline mb-4">
+                    <input type="date" id="form2Example22" class="form-control" asp-for="SDate" />
+                    <label class="form-label fw-bold" for="form2Example22"  asp-for="SDate" StartDate>START DATE</label>
+                  </div>
+                  <div class="form-outline mb-4">
+                    <input type="date" id="form2Example22" class="form-control" asp-for="EDate" />
+                    <label class="form-label fw-bold" for="form2Example22"  asp-for="EDate" EDate>END DATE</label>
+                  </div>
+                  <div class="form-outline mb-4">
+                    <p>
+                    <label class="form-label fw-bold" for="form2Example22"  asp-for=" LT"  LT> LEAVE TYPE</label>
+                           <select asp-for="LT" >
+                            <option value="Privileged Leave">PRIVILEGED LEAVE</option>
+                            <option value="Compensatory Leave">COMPENSATORY LEAVE</option>
+                            <option value="Maternity Leave">MATERNITY LEAVE</option>
+                            <option value="Paternity Leave">PATERNITY LEAVE</option>
+                            <option value="LOP Leave">LOP LEAVE</option>
+                            <option value="Carry Forward">CARRY FORWARD</option>
+                            <option value="Encashed Days">ENCASHED DAYS</option>
+                             <option value="Marriage Leave">MARRIAGE LEAVE</option>
+                              <option value="MTP Leave">MTP LEAVE</option>
+                            </select>
+                            </p>
+                  </div>
+                  <div>
+                  <p>
+                    
+            <button type="Submit"  class="btn btn-primary btn-lg"
+              style="padding-left: 2.5rem; padding-right: 2.5rem;" >SUBMIT</button>
+              
+             </p>
+             </div>
+           </form>
+                </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\WINDOS 10 PRO\\Downloads\\OneDrive_2023-12-28\\LMS (2) (1)\\LMS (1)\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LMS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LMS.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\WINDOS 10 PRO\\Downloads\\OneDrive_2023-12-28\\LMS (2) (1)\\LMS (1)\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\WINDOS 10 PRO\\Downloads\\OneDrive_2023-12-28\\LMS (2) (1)\\LMS (1)\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\WINDOS 10 PRO\\Downloads\\OneDrive_2023-12-28\\LMS (2) (1)\\LMS (1)\\wwwroot\\images\\LMS.jpg",
+      "PackagePath": "staticwebassets\\images\\LMS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WINDOS 10 PRO\\Downloads\\OneDrive_2023-12-28\\LMS (2) (1)\\LMS (1)\\wwwroot\\images\\Leave.jpeg",
+      "PackagePath": "staticwebassets\\images\\Leave.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\WINDOS 10 PRO\\Downloads\\OneDrive_2023-12-28\\LMS (2) (1)\\LMS (1)\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\WINDOS 10 PRO\\Downloads\\OneDrive_2023-12-28\\LMS (2) (1)\\LMS (1)\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\WINDOS 10 PRO\\Downloads\\OneDrive_2023-12-28\\LMS (2) (1)\\LMS (1)\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\WINDOS 10 PRO\\Downloads\\OneDrive_2023-12-28\\LMS (2) (1)\\LMS (1)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\WINDOS 10 PRO\\Downloads\\OneDrive_2023-12-28\\LMS (2) (1)\\LMS (1)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WINDOS 10 PRO\\Downloads\\OneDrive_2023-12-28\\LMS (2) (1)\\LMS (1)\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\WINDOS 10 PRO\\Downloads\\OneDrive_2023-12-28\\LMS (2) (1)\\LMS (1)\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LMS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.LMS.props",
+      "PackagePath": "build\\LMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.LMS.props",
+      "PackagePath": "buildMultiTargeting\\LMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.LMS.props",
+      "PackagePath": "buildTransitive\\LMS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

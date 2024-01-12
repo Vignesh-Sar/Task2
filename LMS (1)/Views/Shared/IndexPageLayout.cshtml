@@ -1,0 +1,120 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - LMS</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/LMS.styles.css" asp-append-version="true" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    body {margin:0;padding:0;overflow-x: hidden;
+    .container {width: 80%;}
+    .tools {background: ;}
+    #map {bottom:0; width:80%; height:100%;min-height: 600px;}
+    }
+</style>
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">LMS</a>
+               
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        
+  @* <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="check-circle-fill" fill="currentColor" viewBox="0 0 16 16">
+    <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+  </symbol>
+  <symbol id="info-fill" fill="currentColor" viewBox="0 0 16 16">
+    <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm.93-9.412-1 4.705c-.07.34.029.533.304.533.194 0 .487-.07.686-.246l-.088.416c-.287.346-.92.598-1.465.598-.703 0-1.002-.422-.808-1.319l.738-3.468c.064-.293.006-.399-.287-.47l-.451-.081.082-.381 2.29-.287zM8 5.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"/>
+  </symbol>
+  <symbol id="exclamation-triangle-fill" fill="currentColor" viewBox="0 0 16 16">
+    <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
+  </symbol>
+</svg>*@
+@* <div class="alert alert-success d-flex align-items-center" role="alert"> *@
+
+@* </div>  *@
+
+
+
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            
+                        </li>
+                         <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle "  asp-area="" data-bs-toggle="dropdown" >My_Leave</a>
+                            <ul class=dropdown-menu>
+                              
+                                 <li><a class="dropdown-item" asp-controller="My_Leave" asp-action="ManagerCheckingLeave">Leavesummary</a></li>
+                                 <li><a class="dropdown-item" asp-controller="My_Leave" asp-action="RequestLeave">Request Leave</a></li>
+                                 <li><a class="dropdown-item" asp-controller="My_Leave" asp-action="CancelLeave">Cancel Leave</a></li>
+                                 <li><a class="dropdown-item" asp-controller="My_Leave" asp-action="EmpChecking">Show Result</a></li>
+                            </ul>
+                            
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle "  asp-area="" data-bs-toggle="dropdown" >Manage_Leave</a>
+                            <ul class=dropdown-menu>
+                                 <li><a  class="dropdown-item" asp-controller="My_Leave" asp-action="ShowLeaveDetails">Accept/Reject Leave Request</a></li>
+                                 <li><a class="dropdown-item" asp-controller="My_Leave" asp-action="ManagerCheckingLeave">View Employeee Leavesummary</a></li>
+                                 <li><a class="dropdown-item" asp-controller="My_Leave" asp-action="Send_Message">Send_Message</a></li>
+                                  
+                            </ul>
+                            
+                        </li>
+                        <li style="margin-left: 60%;" class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="My_Leave" asp-action="Logout">Logout</a>
+                        </li>
+                        @if(TempData["alertmessage"] != null)
+{
+  <script  src="~/lib/jquery/dist/jquery.min.js"></script>
+  <script  src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+  <script type="text/javascript">
+  toastr.info('@TempData["alertmessage"]');
+  </script>
+}          
+                       
+
+                    </ul>
+                </div>
+                
+            </div>
+           
+        </nav>
+
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - LMS - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+

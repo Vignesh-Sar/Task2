@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LMS
+build_property.RootNamespace = LMS
+build_property.ProjectDir = C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\WINDOS 10 PRO\Downloads\OneDrive_2023-12-28\LMS (2) (1)\LMS (1)
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/Home/welcom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx3ZWxjb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/My_Leave/CancelLeave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfTGVhdmVcQ2FuY2VsTGVhdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/My_Leave/Compansatory_Eligibility.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfTGVhdmVcQ29tcGFuc2F0b3J5X0VsaWdpYmlsaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/My_Leave/EmpChecking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfTGVhdmVcRW1wQ2hlY2tpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/My_Leave/EmplyoeeLeaveDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfTGVhdmVcRW1wbHlvZWVMZWF2ZURldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/My_Leave/LeaveSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfTGVhdmVcTGVhdmVTdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/My_Leave/ManagerCheckingLeave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfTGVhdmVcTWFuYWdlckNoZWNraW5nTGVhdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/My_Leave/ReEnterPassWord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfTGVhdmVcUmVFbnRlclBhc3NXb3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/My_Leave/RequestLeave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfTGVhdmVcUmVxdWVzdExlYXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/My_Leave/Send_Message.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfTGVhdmVcU2VuZF9NZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/My_Leave/ShowLeaveDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfTGVhdmVcU2hvd0xlYXZlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/My_Leave/Show_Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfTGVhdmVcU2hvd19SZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/My_Leave/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlfTGVhdmVcU2lnbnVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/Shared/IndexPageLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEluZGV4UGFnZUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WINDOS 10 PRO/Downloads/OneDrive_2023-12-28/LMS (2) (1)/LMS (1)/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-oaye5qotgs

@@ -1,0 +1,12 @@
+@model Task1
+<form method="post">
+    @Html.EditorForModel()
+    <button type="submit">Submit</button>
+
+</form>
+ @section Scripts
+                      {
+                        @{
+                          <partial name="_ValidationScriptsPartial"/>
+                        }
+                      }

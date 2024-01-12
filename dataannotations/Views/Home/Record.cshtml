@@ -1,0 +1,70 @@
+@* @model IEnumerable<Task1>
+    <div class="container">
+        <div class="table">
+            <table>
+            <thead>
+                <tr>
+                <th>Employee Name</th>
+                <th>Domain</th>
+                <th>City</th>
+                <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                 @foreach (var request in Model)
+                {
+                <tr>
+                    <td>@request.Name</td>
+                    <td>@request.Domain</td>
+                    <td>@request.City</td>
+                    <td>@request.Status</td>
+                </tr>
+                }
+            </tbody>
+            </table>
+        </div>
+
+    </div>
+    <h1 class="text-center">Contact users</h1>
+    <div class="container">
+         <div class="table">
+            <table>
+            <thead>
+                <tr>
+                
+                <th>Name</th>
+                <th>Email id</th>
+                <th>Number</th>
+                <th>Ratings</th>
+                
+                </tr>
+            </thead>
+            <tbody>
+                 @foreach (var item in ViewBag.users)
+                {
+                <tr>
+                    
+                    <td>@item.Name</td>
+                    <td>@item.Emailid</td>
+                    <td>@item.Phoneno</td>
+                    <td>@item.Ratings</td>
+                    
+                </tr>
+                } *@
+@using dataannotations.Models;
+@model DatasViewModel
+<div>
+    <h1>Employee Details</h1>
+@foreach(var item in Model.DataViewModel)
+{
+  @item.Phoneno
+  <br>
+}
+<h1>Project Status</h1>
+<br>
+@foreach (var item in Model.Task1ViewModel)
+{
+    @item.Domain
+    <br>
+}
+</div>

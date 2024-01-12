@@ -1,0 +1,119 @@
+@model IEnumerable<RequestLeaveDetails>
+    @{
+        ViewData["Title"]="LeaveDetails";
+        Layout="../shared/IndexPagelayout";
+    }
+
+
+ 
+<div class="card">
+  <h5 class="card-header">Leave Summary</h5>
+  <div class="card-body">
+     @foreach(RequestLeaveDetails item in Model)
+    { 
+      <p style="font-weight: bold;">Username : </p>
+      <p>@item.UserName</p>
+      <p  style="font-weight: bold;">Userid : </p>
+      <p>@item.UserID</p>
+      <p  style="font-weight: bold;">Year : </p>
+      <p>@item.DateTime</p>
+      
+   
+      }
+  </div>
+</div>
+   
+<table width="50%" border="2" class="table table-striped table-hover">
+        <thead>
+           
+            
+            <td style="font-weight: bold;">Leave Type</td>
+            <td style="font-weight: bold;">Leave Eligible</td>
+            <td style="font-weight: bold;">Leave Remaining</td>
+       </div>
+       </div>
+        </thead>
+        
+        <tbody>
+         <tr>
+         <td>Privileged_Leave</td>
+         <td>1</td>
+         @foreach (RequestLeaveDetails item in Model)
+         {
+           <td>@item.Privileged_Leave</td>  
+         }
+        
+         
+         </tr>
+         <tr>
+         <td>Compansatory_Leave</td>
+          <td>2</td>
+          @foreach (RequestLeaveDetails item in Model)
+         {
+             <td>@item.Compansatory_Leave</td>
+         }
+         </tr>
+         <tr>
+         <td>Maternity_Leave</td>
+          <td>0</td>
+          @foreach (RequestLeaveDetails item in Model)
+         {
+             <td>@item.Maternity_Leave</td>
+         }
+         </tr>
+         <tr>
+         <td>Paternity_Leave</td>
+          <td>1</td>
+          @foreach (RequestLeaveDetails item in Model)
+         {
+             <td>@item.Paternity_Leave</td>
+         } 
+         </tr>
+         <tr>
+         <td>LOP_Leave</td>
+          <td>3</td>
+           
+          @foreach (RequestLeaveDetails item in Model)
+         {
+             <td>@item.LOP_Leave</td>
+         } 
+         </tr>
+         <tr>
+         <td>Carry_Forward</td>
+          <td>2</td>
+          @foreach (RequestLeaveDetails item in Model)
+         {
+             <td>@item.Carry_Forward</td>
+         } 
+         </tr>
+         <tr>
+         <td>Encashed_Days</td>
+          <td>1</td>
+          @foreach (RequestLeaveDetails item in Model)
+         {
+             <td>@item.Encashed_Days</td>
+         } 
+         </tr>
+         <tr>
+         <td>Marriage_Leave</td>
+          <td>1</td>
+          @foreach (RequestLeaveDetails item in Model)
+         {
+             <td>@item.Marriage_Leave</td>
+         } 
+         </tr>
+         <tr>
+         <td>MTP_Leave</td>
+          <td>1</td>
+          @foreach (RequestLeaveDetails item in Model)
+         {
+             <td>@item.MTP_Leave</td>
+         } 
+         </tr>
+         
+
+        
+       
+        </tbody>
+    </table>
+  

@@ -1,0 +1,140 @@
+@model IEnumerable<RequestLeaveDetails>
+    @{
+        ViewData["Title"]="ShowTable";
+        Layout="../shared/IndexPagelayout";
+    }
+   <div class="w-auto p-3" style="background-color: white;">
+    <Center>
+        <h1>Show Details</h1>
+        <p>
+            @using(Html.BeginForm("ShowLeaveDetails","My_Leave",FormMethod.Get)){
+           <input type="text" name ="empsearch" />
+           <input type ="Submit" Value="Search" name = "Submit" />
+            }
+        </p>
+        
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.UserName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Email)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UserID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.StartDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.EndDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.LeaveType)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Description)
+                    
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.EmRequest)
+                    
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ManRequest)
+                    
+                </th>
+              
+            </tr>
+            @foreach (RequestLeaveDetails item in Model)
+            {
+               <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StartDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EndDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LeaveType)
+                </td>
+                <td>
+                 @Html.DisplayFor(modelItem => item.Description)
+                
+                 
+                </td>
+                 <td>
+                 @Html.DisplayFor(modelItem => item.EmRequest)
+                
+                 
+                </td>
+                 <td>
+                 @Html.DisplayFor(modelItem => item.ManRequest)
+                
+                 
+                </td>
+                 <td>
+                @if((@item.ManRequest !="Accept")&&(@item.ManRequest !="Reject"))
+                {
+               
+                <form method="post">
+                 @using(Html.BeginForm("Compansatory_Eligibility","My_Leave",FormMethod.Get))
+                     {  
+                  <td>
+                
+                 <button type="Submit" asp-controller="My_Leave" asp-action="Compansatory_Eligibility" asp-route-username=@item.UserName asp-route-userid="@item.UserID" asp-route-sDate="@item.StartDate" asp-route-EDate="@item.EndDate" asp-route-Type="@item.LeaveType"  name="Submit" value="Accept" id="btnSave">Accept</button> 
+               
+                   
+                  </td>
+                 <td>
+                
+                 <button type="Submit" asp-controller="My_Leave" asp-action="Compansatory_Eligibility" asp-route-username=@item.UserName asp-route-userid=@item.UserID asp-route-sDate=@item.StartDate asp-route-EDate=@item.EndDate asp-route-Type=@item.LeaveType  name="Submit" value="Reject" id="btnSave">Reject</button> 
+                </td>
+                     }
+               
+               
+                </form> 
+                }
+               else
+                {
+                <form method="post">
+                      
+                  <td>
+                
+                 <button type="Submit"  id="btnSave" disabled>Accept</button> 
+               
+                    
+                  </td>
+                 <td>
+                  
+                <button type="Submit" id="btnSave"   disabled>Reject</button> 
+                
+                 </td>
+                     
+               
+                </form> 
+                    
+                 }
+               
+        
+                    
+              </td>     
+              
+                  
+                   
+                
+               </tr> 
+            }
+        </table>
+    </Center> 
+</div>

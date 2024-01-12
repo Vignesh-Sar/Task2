@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    
+}
+@if(TempData["Warning"] != null)
+{
+  <script  src="~/lib/jquery/dist/jquery.min.js"></script>
+  <script  src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+  <script type="text/javascript">
+  toastr.info('@TempData["Warning"]');
+  </script>
+}          
+
+@* <div class="w-auto p-3" style="background-color: white;"> *@
+<h1 align="center" style="color:rgb(35, 62, 184);font-family:Courier New">Employee Leave Management System</h1>
+   @* <img src="../images/Leave.jpeg" > 
+</div> *@

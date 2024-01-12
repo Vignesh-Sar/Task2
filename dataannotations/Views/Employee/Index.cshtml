@@ -1,0 +1,51 @@
+@model Data
+@inject IRepository _repository;
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div>
+    <label>Total Employee = @_repository.GetData().Count()</label>
+
+</div>
+
+<form method="post">
+@* @Html.Label("Name")
+<br>
+@Html.TextBoxFor(m=>m.Name)
+@Html.ValidationMessageFor(m=>m.Name,"", new{@class ="text-danger"})
+<br>
+@Html.Label("Email ID")
+<br>
+@Html.EditorFor(m=>m.Emailid)
+@Html.ValidationMessageFor(m=>m.Emailid,"",new{@class="text-danger"})
+<br>
+@Html.Label("Phone number")
+<br>
+@Html.EditorFor(m=>m.Phoneno)
+@Html.ValidationMessageFor(m=>m.Phoneno,"",new{@class="text-danger"})
+<br>
+@Html.Label("Date")
+<br>
+@Html.EditorFor(m=>m.Date)
+@Html.ValidationMessageFor(m=>m.Date,"",new{@class="text-danger"})
+<br>
+@Html.Label("Address")
+<br>
+@Html.EditorFor(m=>m.Address)
+@Html.ValidationMessageFor(m=>m.Address,"",new{@class="text-danger"})
+<br>
+@Html.Label("Ratings")
+<br>
+@Html.EditorFor(m=>m.Ratings)
+@Html.ValidationMessageFor(m=>m.Ratings,"",new{@class="text-danger"})
+<br><br> *@
+
+@Html.EditorForModel()
+<button type="submit">Submit</button>
+</form>
+                   @section Scripts
+                      {
+                        @{
+                          <partial name="_ValidationScriptsPartial"/>
+                        }
+                      }

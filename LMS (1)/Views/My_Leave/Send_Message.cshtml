@@ -1,0 +1,11 @@
+@{
+    ViewData["Title"] = "EmailUsage";
+    Layout="../shared/IndexPagelayout";
+
+}
+<h2 align = "center"> Send Common Mail</h2>
+<p>
+            @using(Html.BeginForm("Send_Message","My_Leave",FormMethod.Get)){
+               <p><a href="http://localhost:5177/swagger/index.html">Send_Mail</a></p>
+              }
+</p>
